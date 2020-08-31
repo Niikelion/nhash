@@ -1,0 +1,2 @@
+# nhash
+Constexpr hashing functions
